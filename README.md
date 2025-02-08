@@ -60,7 +60,7 @@ This guide will walk you through transforming the starter code into a complete, 
 1. **Ensure Accessibility:** Make sure all elements are accessible, including appropriate `aria-labels` for screen readers.
 2. **Validate HTML and CSS:** Use validation tools to ensure there are no errors in your HTML and CSS.
 
-### **HOW to submit your project** 
+## 🚨 **HOW to submit your project** 🚨
 
 1. Rename your project with your student number, group number and coach name. 
 - ⚠️ Here is an example repo name: Module_08_StudentNo_Classcode_Group_Name-Surname_SDF05 ⚠️
