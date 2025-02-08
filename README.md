@@ -60,4 +60,11 @@ This guide will walk you through transforming the starter code into a complete, 
 1. **Ensure Accessibility:** Make sure all elements are accessible, including appropriate `aria-labels` for screen readers.
 2. **Validate HTML and CSS:** Use validation tools to ensure there are no errors in your HTML and CSS.
 
+### **HOW to submit your project** 
+
+1. Rename your project with your student number, group number and coach name. 
+- ⚠️ Here is an example repo name: Module_08_StudentNo_Classcode_Group_Name-Surname_SDF05 ⚠️
+
+2. Submit your GitHub Repo link through the LMS. You will find this in the LMS [**[Projects](https://learn.codespace.co.za/projects)**] tab.
+
 By following these steps, you will transform the starter code into a fully responsive and styled footer using Tailwind CSS. This exercise will not only reinforce your understanding of Tailwind's utility classes but also improve your skills in creating responsive web layouts.
