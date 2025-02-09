@@ -1,6 +1,6 @@
-# Responsive Footer Refactor with Tailwind CSS  
+# [SDF05] Responsive Tailwind Footer Refactor 🦶
 
-Welcome to your **Tailwind CRefactor Challenge!** This project is focused on applying Tailwind’s **utility-first approach** to design a fully responsive website footer.  
+Welcome to your **Tailwind Refactor Challenge!** This project is focused on applying Tailwind’s **utility-first approach** to design a fully responsive website footer.  
 
 
 ## 📖 Challenge Brief  
